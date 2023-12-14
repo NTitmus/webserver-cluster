@@ -34,3 +34,7 @@ plugin "aws" {
 #rule "aws_launch_configuration_invalid_image_id" {
 #  enabled = true
 #}
+
+#rule "aws_launch_configuration_invalid_type" {
+#  enabled = false
+#}
